@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mero Lagani Clown</title>
+    <link rel="stylesheet" href="merolagani.css">
+
+</head>
+
+<body>
+    <header class="head">
+        <div class="yellowbar">
+            <p class="date">Tue, May 18, 2021</p>
+            <div class="mid">
+
+                <ul class="links">
+                    <li class="info"> support@asteriskt.com</li>
+                    <li class="info">(+977) 01-5315101/5315184</li>
+                    <li class="info">9801000860</li>
+                    <li><button class="btn" id="english">English</button></li>
+                    <li><button class="btn" id="account">Create Free Account</button></li>
+                    <li><button class="btn" id="help">Help</button></li>
+                    <li><a href="#">About us</a></li>
+                    <li><a href="#">Contact us</a></li>
+                    <li><a href="#">Bank Accounts</a></li>
+                </ul>
+
+            </div>
+
+    </header>
+    <div class="logo">
+        <img src="https://merolagani.com/Content/images/merolagani.png" alt="Mero Lagani Logo">
+        <a href="https://www.sanimabank.com/products/loans/share-loan">
+            <img src="https://images.merolagani.com//content/adverts/0cbf4402-e5ff-48a0-8a5b-d256d60ebe17.gif" alt="Sanima Bank">
+        </a>
+    </div>
+    <div class="bluebar">
+        <ul class="lists">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Market</a></li>
+            <li><a href="#">News</a></li>
+            <li><a href="#">Announcements</a></li>
+            <li><a href="#">Reports</a></li>
+            <li><a href="#">Portfolio</a></li>
+            <li><a href="#">IPO</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Dashboard</a></li>
+        </ul>
+        <ul class="right">
+           <!-- <button class="btn"id="service"></button>
+            <button class="btn"id="notification"></button>
+            <button class="btn"id="search"></button>-->
+          <a href="#">Log In</a>
+        </ul>
+    </div>
+   
+
+</body>
+
+</html>
